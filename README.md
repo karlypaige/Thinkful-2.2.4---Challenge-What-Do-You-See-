@@ -1,2 +1,1 @@
-# What-Do-You-See_Unit2-Data-Visualization
-Thinkful Unit2 Challenge-What Do You See? Assignment
+#Thinkful 2.2.4 - Challenge, What Do You See Data Visualization
